@@ -30,5 +30,5 @@
 ## You can see all my Portfolio Projects here -: https://piyushpathak309.github.io/AnAnalyst.github.io/
 
 
-### Why This Project :- Uber provides transportation facility to people and people use it lot so i wanted to lnow the different time period in which people use it lot.
+### Why This Project :- Uber provides transportation facility to people and people use it lot so i wanted to know the different time period in which people use it lot.
 
